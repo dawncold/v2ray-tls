@@ -1,0 +1,6 @@
+export CF_Account_ID=PLEASE FILL YOUR OWN CF ACCOUNT ID
+export CF_Token=PLEASE FILL YOUR OWN CF API TOKEN
+export DOMAIN=PLEASE FILL YOUR DOMAIN
+export DEPLOY_HAPROXY_PEM_PATH=./conf/haproxy
+export DEPLOY_HAPROXY_PEM_NAME=certs.pem
+export DEPLOY_HAPROXY_RELOAD="docker-compose down || docker-compose up -d"
