@@ -3,6 +3,7 @@
 ## Dependencies
 
 * Docker
+* Docker composer
 * acme.sh
 
 ## How to use
